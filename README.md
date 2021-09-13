@@ -10,3 +10,6 @@ Leaf Classification using CNN and SVM
 - For SVM, the Flavia dataset was used as is
 - For CNN, the Flavia dataset was arranged in sub folders, named after the species each image belongs to
 - For testing the classifiers, a new folder with images manipulated from the Flavia dataset was used. Manipulated implies that the imgages were rotated, flipped or translated.
+
+### Relavant Info about Flavia Dataset found here:
+http://flavia.sourceforge.net/
